@@ -14,7 +14,7 @@ You are free to add even more models to this module. You may wish to do this whe
 add new features to your game, such as power-ups. If you are unsure about whether to
 make a new class or not, please ask on Ed Discussions.
 
-# YOUR NAME- SHRAVAN RAM
+# YOUR NAME- Suraj Prajapati
 # DATE- 09-05-2023
 """
 from consts import *

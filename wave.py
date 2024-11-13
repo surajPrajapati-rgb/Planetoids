@@ -13,7 +13,7 @@ Most of your work on this assignment will be in either this module or models.py.
 Whether a helper method belongs in this module or models.py is often a complicated
 issue.  If you do not know, ask on Ed Discussions and we will answer.
 
-# YOUR NAME- SHRAVAN RAM
+# YOUR NAME- Suraj Prajapati
 # DATE- 09-05-2023
 """
 from game2d import *

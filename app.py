@@ -6,7 +6,7 @@ is no need for any any need for additional classes in this module. If you need m
 classes, 99% of the time they belong in either the wave module or the models module. If
 you are ensure about where a new class should go, post a question on Ed Discussions.
 
-YOUR NAME- SHRAVAN RAM
+YOUR NAME- Suraj Prajapati
 DATE- 09-05-2023
 """
 from consts import *

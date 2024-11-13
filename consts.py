@@ -5,7 +5,7 @@ This module global constants for the game Planetoids. These constants need to be
 in the model, the view, and the controller. As these are spread across multiple modules,
 we separate the constants into their own module. This allows all modules to access them.
 
-# YOUR NAME- SHRAVAN RAM
+# YOUR NAME- Suraj Prajapati
 # DATE- 09-05-2023
 """
 import introcs
